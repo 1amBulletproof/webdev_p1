@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffe8be), to(#fbf7ed));
+  color: rgb(133, 91, 37);
+}
+header {
+  background-image: url("images/Camping02.gif");
+}
+nav {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  list-style: inside;
+  list-style-type: none;
+  border-bottom-width: 2px;
+  border-bottom-style: ridge;
+}
+li{
+  display: inline;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+footer {
+  padding-top: 50px;
+}
