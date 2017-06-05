@@ -43,7 +43,7 @@ th,td {
   text-align: center;
   padding: 5px;
 }
-#top_pic {
+#top_pic, .table_pic {
   width: 200px;
   height: 100px;
   align-self: stretch;
@@ -68,7 +68,7 @@ th#table_title {
   font-size: large;
 }
 .hiking_tours_list {
-  display: list-item;
+  display: block;
   font-size: x-large;
 }
 #slogan {
